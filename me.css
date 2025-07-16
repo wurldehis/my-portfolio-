@@ -90,7 +90,7 @@ nav a:hover {
 }
 
 .hero img {
-  width: 150px;
+  width: 80px;
   border-radius: 10px;
   filter: grayscale(100%) contrast(1.1);
   margin-top: 2rem;
@@ -115,7 +115,7 @@ nav a:hover {
 }
 
 .about img {
-  width: 150px;
+  width: 80px;
   border-radius: 10px;
 }
 
